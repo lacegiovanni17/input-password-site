@@ -2,7 +2,7 @@
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
 💻 This is a site requiring your password made with HTML, CSS and Javascript. Click on the monkey to reveal your password characters!
-🌍 Website:  
+🌍 Website:  https://lacegiovanni17.github.io/input-password-site/
 💞️ I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
 
